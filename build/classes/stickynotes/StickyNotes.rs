@@ -1,0 +1,2 @@
+stickynotes.StickyNotes
+stickynotes.extensionCheck
